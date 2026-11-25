@@ -15,3 +15,7 @@
 `dist/index.html`、`dist/style.css` 和 `dist/app.js` 负责界面与交互；章节知识保存在 `dist/lessons.js`、`dist/extra.js`、`dist/deep.js`、`dist/detailed-all.js` 及 `dist/chapter*-deep.js`；`dist/images/` 存放引用的教材图例。
 
 内容仍在整理中，尚未逐一覆盖教材全部细节及课件例题。图形、公式与题目请结合原资料核对；自编练习已注明。教材和课件的图例及其相关权利归原权利人所有。
+
+## 许可证
+
+本项目自行编写的网站源代码以 [GNU GPL-3.0-only](LICENSE) 发布。教材、课件及其图表等第三方内容的权利归原权利人所有，不因本项目采用 GPL 而改变；使用或再分发这些材料须依据各自的授权。
